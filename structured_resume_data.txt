@@ -1,0 +1,55 @@
+Here is the organized information:
+
+**Education**
+
+* Master of Science in Computer Science
+	+ Stanford University, Stanford, CA
+	+ 2017 - 2019
+* Bachelor of Science in Computer Engineering
+	+ University of California, Berkeley, CA
+	+ 2013 - 2017
+
+**Certifications**
+
+* TensorFlow Developer Certificate - Google
+* AWS Certified Machine Learning - Specialty
+* Professional Certificate in Deep Learning - Coursera
+
+**Experience**
+
+* Machine Learning Engineer
+	+ XYZ Technologies, San Francisco, CA
+	+ March 2021 - Present
+		- Spearheaded the development of a deep learning model to enhance object detection accuracy by 25% for autonomous driving systems.
+		- Deployed an AI-driven predictive analytics solution, reducing operational costs by 18% for key stakeholders.
+		- Collaborated cross-functionally with data scientists and software engineers to design scalable ML pipelines using TensorFlow, Keras, and PyTorch.
+* AI Research Intern
+	+ ABC Labs, Palo Alto, CA
+	+ June 2019 - February 2021
+		- Developed generative AI models for image enhancement, resulting in a 20% improvement in visual quality for low-resolution images.
+		- Led a team to optimize model training, reducing processing time by 30% using distributed computing.
+
+**Projects**
+
+* Dehazing Video Frames for Fire Rescue Operations
+	+ Kumaraguru College of Technology, Coimbatore, IN
+		- Utilized CNN, OpenCV, and FFmpeg to develop a system that dehazes video frames for enhanced visibility in fire rescue operations.
+		- Optimized performance with image processing techniques, leading to real-time deployment in rescue scenarios.
+* Generative AI Workshop
+	+ Organized and led a workshop titled 'Generative AI - Hands-on with Transformer', mentoring juniors on GitHub and prototyping tools like Wix.
+
+**Skills**
+
+* Programming Languages: Python, C++, JavaScript
+* Machine Learning: TensorFlow, Keras, PyTorch, Scikit-Learn
+* Data Analysis: Pandas, NumPy, Matplotlib
+* Big Data & Cloud: Hadoop, AWS, Azure
+* Tools: Git, Docker, Kubernetes
+* Soft Skills: Leadership, Teamwork, Problem-solving
+
+**Languages**
+
+* English (Native)
+* Spanish (Fluent)
+
+Let me know if you'd like me to reorganize or add anything else!

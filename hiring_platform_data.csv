@@ -1,0 +1,21 @@
+Applicant_ID,Date_Applied,Application_Status,Location,Source,Years_of_Experience,Seniority_Level,Stage_of_Hiring,Time_in_Stage_Days,Offer_Accepted,Job_Title,Applications_Per_Job,Gender,Skillset_Match,Salary_Expectation,Interview_Feedback_Sentiment,Time_to_Hire_Days,Department
+1,2023-08-01,Applied,New York,Company Website,13,Junior,Screening,6,False,Data Scientist,32,Male,Low,88837,Neutral,24,Engineering
+2,2023-08-02,Rejected,San Francisco,Job Fair,8,Senior,HR Interview,7,False,Data Scientist,11,Male,Medium,53853,Positive,15,Engineering
+3,2023-08-03,Hired,Chicago,Indeed,12,Senior,HR Interview,9,True,Software Engineer,17,Non-Binary,Medium,130239,Negative,15,Engineering
+4,2023-08-04,Applied,New York,LinkedIn,10,Senior,Technical Interview,3,True,HR Specialist,29,Non-Binary,Low,143206,Negative,21,HR
+5,2023-08-05,Rejected,New York,LinkedIn,11,Junior,Screening,3,True,Marketing Coordinator,42,Female,High,91418,Negative,13,Product
+6,2023-08-06,Hired,Austin,Job Fair,12,Mid,Technical Interview,3,True,HR Specialist,29,Male,Medium,146617,Neutral,14,Engineering
+7,2023-08-07,Applied,San Francisco,Referral,3,Senior,HR Interview,1,True,Product Manager,46,Male,High,77653,Negative,46,Engineering
+8,2023-08-08,Applied,Los Angeles,Indeed,4,Junior,Technical Interview,3,False,Software Engineer,40,Female,Medium,89679,Negative,26,Marketing
+9,2023-08-09,Applied,San Francisco,LinkedIn,10,Senior,Screening,7,True,Marketing Coordinator,46,Female,Low,91563,Positive,56,Product
+10,2023-08-10,Hired,San Francisco,Job Fair,11,Senior,Screening,4,False,HR Specialist,37,Male,Low,61260,Neutral,39,Engineering
+11,2023-08-11,Applied,Los Angeles,Job Fair,8,Senior,HR Interview,5,False,Data Scientist,32,Male,Medium,84138,Neutral,38,Sales
+12,2023-08-12,Applied,San Francisco,Job Fair,14,Senior,Final Interview,3,True,Software Engineer,20,Non-Binary,High,122714,Negative,39,Marketing
+13,2023-08-13,Hired,Los Angeles,Job Fair,10,Senior,Screening,7,True,Product Manager,26,Non-Binary,Medium,139385,Negative,54,Marketing
+14,2023-08-14,Hired,Los Angeles,LinkedIn,7,Mid,Screening,7,False,HR Specialist,45,Non-Binary,Low,135698,Negative,39,HR
+15,2023-08-15,Screened,San Francisco,Indeed,9,Mid,HR Interview,1,False,Product Manager,28,Female,Medium,76864,Negative,33,Engineering
+16,2023-08-16,Screened,Los Angeles,Referral,10,Mid,HR Interview,4,True,Data Scientist,47,Non-Binary,Medium,113173,Positive,34,Engineering
+17,2023-08-17,Applied,New York,LinkedIn,6,Mid,Technical Interview,8,True,HR Specialist,11,Non-Binary,Medium,148588,Negative,17,HR
+18,2023-08-18,Applied,Austin,LinkedIn,9,Senior,Technical Interview,2,True,Marketing Coordinator,43,Female,Medium,109408,Positive,32,Marketing
+19,2023-08-19,Rejected,San Francisco,Referral,13,Senior,Screening,9,True,Data Scientist,14,Non-Binary,Low,79073,Positive,35,HR
+20,2023-08-20,Rejected,New York,Company Website,10,Mid,Final Interview,3,False,Product Manager,41,Female,Medium,57794,Negative,13,Engineering
